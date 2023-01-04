@@ -140,3 +140,71 @@ main{
     font-size: 16px;
     color: #757575;
 }
+
+/* Resume style */
+.resume-heading{
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    margin-top: 50px;
+    color: #181818;
+    margin-bottom: 100px;
+
+}
+.resume-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+.resume-container{
+    display: flex;
+}
+.education-institute{
+    width: 511px;
+    height: 175px;
+    left: 230px;
+    top: 2604px;
+    margin-right: 71px;
+    margin-bottom: 5px;
+    border-radius: 25px;
+}
+
+.institute-name{
+    font-weight: 700;
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    
+}
+.education-subject{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+}
+.company{
+    width: 511px;
+    height: 175px;
+    left: 230px;
+    top: 2604px;
+}
+.job-position{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+}
+.company-name{
+    font-weight: 700;
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.resume-btn{
+    text-align: center;
+   margin-top: 50px;
+    
+}
