@@ -238,7 +238,7 @@ main{
 .social-description{
     color: #474747;
     font-size: 16px;
-    padding-right: ;
+    /* padding-right: ; */
     margin-left: 130px;
     margin-bottom: 20px;
 }
@@ -248,4 +248,12 @@ input{
     height: 64px;
     left: 909px;
     top: 3770px;
+    margin-right: 15px;
+}
+.social-media{
+    color: #474747;
+    font-size: 16px;
+    /* padding-right: ; */
+    margin-left: 130px;
+    margin-bottom: 20px;
 }
